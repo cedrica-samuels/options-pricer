@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+EXPLAINER.md
+RESUME_BULLETS.md
